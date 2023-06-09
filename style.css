@@ -84,5 +84,5 @@ h3 {
 }
 
 .products-list li:last-child {
-    border-bottom: none;
+	border-bottom: none;
 }
